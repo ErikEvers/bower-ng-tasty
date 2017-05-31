@@ -1,11 +1,11 @@
 {
   "name": "ng-tasty",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "homepage": "https://github.com/Zizzamia/ng-tasty",
   "authors": [
     { "name" : "Leonardo Zizzamia", "homepage" : "https://twitter.com/Zizzamia" }
   ],
-  "main": "./ng-tasty-tpls.min.js",
+  "main": "./ng-tasty-tpls.js",
   "dependencies": {
     "angular": "^1.4.0"
   }
